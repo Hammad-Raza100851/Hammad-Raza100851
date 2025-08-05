@@ -1,0 +1,74 @@
+{
+    "101": {
+        "book_title": "Python Crash Course",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "102": {
+        "book_title": "Fluent Python",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "103": {
+        "book_title": "Effective Python",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "104": {
+        "book_title": "Python Tricks",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "105": {
+        "book_title": "Learn Python the Hard Way",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "106": {
+        "book_title": "Automate the Boring Stuff",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "107": {
+        "book_title": "Think Python",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "108": {
+        "book_title": "Clean Code",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "109": {
+        "book_title": "Code Complete",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    },
+    "110": {
+        "book_title": "Black Hat Python",
+        "book_status": "3",
+        "lender_name": [
+            "hasnat",
+            "hammad"
+        ],
+        "issue_date": [
+            "2025-08-05 18:53:19",
+            "2025-08-05 19:06:54"
+        ]
+    },
+    "111": {
+        "book_title": "Human Hacked",
+        "book_status": "5",
+        "lender_name": [],
+        "issue_date": []
+    }
+}
